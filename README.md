@@ -28,6 +28,6 @@ The following optimizations were implemented:
 * **Frameworks:** PyTorch (v2.6.0+), Transformers
 * **Optimization:** CUDA, 4-bit Quantization
 
-## 📄 Documentation
+## Documentation
 For a deep dive into the debugging process and performance metrics, please refer to the:
-(./SOLVE ERROR REPORT.pdf)**
+(./SOLVE ERROR REPORT.pdf)
