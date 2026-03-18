@@ -1,0 +1,7 @@
+.idea/ 
+.idea/ 
+*.bin
+*.onnx
+*.wav
+Piper/
+LLM/
