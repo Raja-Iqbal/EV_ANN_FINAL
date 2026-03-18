@@ -6,7 +6,7 @@ Eve is an offline Transformer-based chatbot designed for local inference with pr
 It supports TTS using pyttsx3 and manages chat context efficiently. 
 The project is CPU-friendly and can be extended for multilingual and emotion-aware responses.
 
-## 🚀 Key Technical Features & Optimizations
+## Key Technical Features & Optimizations
 The following optimizations were implemented:
 
 ### 1. CUDA-Accelerated Inference
@@ -30,4 +30,4 @@ The following optimizations were implemented:
 
 ## 📄 Documentation
 For a deep dive into the debugging process and performance metrics, please refer to the:
-👉 **[Full Error & Resolution Report](./SOLVE ERROR REPORT.pdf)**
+(./SOLVE ERROR REPORT.pdf)**
